@@ -1,0 +1,8 @@
+
+KNN Recommendation Model Evaluation
+-----------------------------------
+Customers Analysed : 25
+Nearest Neighbours : 5
+Average Similarity Score : 0.688
+
+Model successfully identifies customers with similar purchase behaviour.

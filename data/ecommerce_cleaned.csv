@@ -1,0 +1,251 @@
+Customer_ID,Product_ID,Product_Category,Purchase_History,Rating,Browsing_Behaviour,Transaction_Date
+C001,P801,Accessories,Yes,4.5,Purchased,2025-01-27
+C001,P102,Electronics,Yes,3.6,Wishlist,2025-01-27
+C001,P105,Electronics,Yes,3.5,Frequently Viewed,2025-01-27
+C001,P503,Home,Yes,4.6,Wishlist,2025-06-16
+C001,P701,Books,Yes,4.2,Frequently Viewed,2025-06-16
+C001,P401,Beauty,Yes,3.9,Frequently Viewed,2025-03-29
+C001,P402,Beauty,Yes,4.6,Frequently Viewed,2025-03-29
+C002,P102,Electronics,Yes,4.6,Added to Cart,2025-01-12
+C002,P801,Accessories,Yes,5.0,Wishlist,2025-01-12
+C002,P702,Books,Yes,3.6,Added to Cart,2025-06-30
+C002,P503,Home,Yes,4.7,Purchased,2025-06-30
+C002,P401,Beauty,Yes,4.5,Wishlist,2025-04-27
+C002,P402,Beauty,Yes,4.1,Frequently Viewed,2025-04-27
+C002,P301,Grocery,Yes,3.7,Wishlist,2025-03-04
+C002,P302,Grocery,Yes,5.0,Added to Cart,2025-03-04
+C002,P701,Books,Yes,3.8,Viewed Once,2025-01-15
+C002,P702,Books,Yes,4.0,Frequently Viewed,2025-01-15
+C002,P105,Electronics,Yes,4.8,Added to Cart,2025-04-12
+C002,P103,Electronics,Yes,3.7,Frequently Viewed,2025-04-12
+C003,P203,Fashion,Yes,4.0,Purchased,2025-04-13
+C003,P202,Fashion,Yes,3.7,Added to Cart,2025-04-13
+C003,P401,Beauty,Yes,4.1,Viewed Once,2025-06-24
+C003,P402,Beauty,Yes,4.1,Purchased,2025-06-24
+C003,P106,Electronics,Yes,4.3,Purchased,2025-06-24
+C003,P401,Beauty,Yes,4.6,Purchased,2025-05-18
+C003,P402,Beauty,Yes,4.0,Frequently Viewed,2025-05-18
+C003,P802,Accessories,Yes,5.0,Purchased,2025-03-09
+C003,P103,Electronics,Yes,4.3,Frequently Viewed,2025-03-09
+C003,P202,Fashion,Yes,4.3,Purchased,2025-02-11
+C003,P201,Fashion,Yes,4.3,Viewed Once,2025-02-11
+C003,P802,Accessories,Yes,4.0,Viewed Once,2025-02-11
+C004,P402,Beauty,Yes,3.6,Added to Cart,2025-01-21
+C004,P401,Beauty,Yes,3.6,Purchased,2025-01-21
+C004,P503,Home,Yes,4.6,Frequently Viewed,2025-01-21
+C004,P502,Home,Yes,4.9,Purchased,2025-04-19
+C004,P601,Sports,Yes,4.6,Added to Cart,2025-04-19
+C004,P202,Fashion,Yes,4.1,Purchased,2025-06-16
+C004,P203,Fashion,Yes,4.2,Frequently Viewed,2025-06-16
+C004,P102,Electronics,Yes,4.4,Viewed Once,2025-02-28
+C004,P101,Electronics,Yes,4.6,Viewed Once,2025-02-28
+C004,P101,Electronics,Yes,4.5,Frequently Viewed,2025-03-13
+C004,P102,Electronics,Yes,3.7,Purchased,2025-03-13
+C004,P202,Fashion,Yes,4.4,Added to Cart,2025-03-13
+C005,P402,Beauty,Yes,4.0,Wishlist,2025-04-21
+C005,P401,Beauty,Yes,4.8,Viewed Once,2025-04-21
+C005,P701,Books,Yes,4.5,Added to Cart,2025-04-21
+C005,P102,Electronics,Yes,3.9,Frequently Viewed,2025-01-28
+C005,P801,Accessories,Yes,4.2,Wishlist,2025-01-28
+C005,P302,Grocery,Yes,4.2,Purchased,2025-01-20
+C005,P301,Grocery,Yes,4.3,Viewed Once,2025-01-20
+C005,P701,Books,Yes,3.7,Added to Cart,2025-03-02
+C005,P503,Home,Yes,3.8,Wishlist,2025-03-02
+C005,P101,Electronics,Yes,4.9,Purchased,2025-03-09
+C005,P102,Electronics,Yes,3.9,Added to Cart,2025-03-09
+C005,P303,Grocery,Yes,4.6,Purchased,2025-03-09
+C005,P203,Fashion,Yes,5.0,Added to Cart,2025-02-25
+C005,P202,Fashion,Yes,4.3,Purchased,2025-02-25
+C005,P204,Fashion,Yes,3.6,Added to Cart,2025-02-25
+C006,P801,Accessories,Yes,4.4,Added to Cart,2025-01-18
+C006,P101,Electronics,Yes,3.9,Frequently Viewed,2025-01-18
+C006,P701,Books,Yes,4.5,Added to Cart,2025-04-18
+C006,P503,Home,Yes,4.0,Frequently Viewed,2025-04-18
+C006,P203,Fashion,Yes,4.5,Frequently Viewed,2025-02-03
+C006,P202,Fashion,Yes,4.0,Purchased,2025-02-03
+C006,P303,Grocery,Yes,3.6,Added to Cart,2025-02-03
+C006,P701,Books,Yes,3.9,Purchased,2025-05-10
+C006,P503,Home,Yes,4.8,Purchased,2025-05-10
+C007,P301,Grocery,Yes,4.0,Purchased,2025-06-30
+C007,P302,Grocery,Yes,4.7,Added to Cart,2025-06-30
+C007,P203,Fashion,Yes,4.9,Frequently Viewed,2025-01-27
+C007,P202,Fashion,Yes,3.7,Frequently Viewed,2025-01-27
+C007,P701,Books,Yes,3.8,Added to Cart,2025-03-29
+C007,P702,Books,Yes,3.9,Added to Cart,2025-03-29
+C007,P201,Fashion,Yes,4.9,Purchased,2025-03-29
+C007,P801,Accessories,Yes,3.5,Purchased,2025-01-12
+C007,P102,Electronics,Yes,4.5,Frequently Viewed,2025-01-12
+C007,P202,Fashion,Yes,3.6,Purchased,2025-01-29
+C007,P203,Fashion,Yes,4.9,Added to Cart,2025-01-29
+C008,P503,Home,Yes,4.0,Purchased,2025-01-11
+C008,P701,Books,Yes,4.7,Purchased,2025-01-11
+C008,P301,Grocery,Yes,4.7,Purchased,2025-04-01
+C008,P302,Grocery,Yes,4.1,Added to Cart,2025-04-01
+C008,P104,Electronics,Yes,4.8,Viewed Once,2025-02-15
+C008,P103,Electronics,Yes,4.6,Wishlist,2025-02-15
+C008,P502,Home,Yes,4.1,Viewed Once,2025-01-28
+C008,P601,Sports,Yes,4.2,Frequently Viewed,2025-01-28
+C008,P702,Books,Yes,4.9,Wishlist,2025-01-28
+C008,P401,Beauty,Yes,4.0,Purchased,2025-04-13
+C008,P402,Beauty,Yes,5.0,Frequently Viewed,2025-04-13
+C008,P201,Fashion,Yes,4.5,Wishlist,2025-04-13
+C009,P101,Electronics,Yes,3.7,Wishlist,2025-01-10
+C009,P102,Electronics,Yes,4.6,Wishlist,2025-01-10
+C009,P203,Fashion,Yes,4.4,Added to Cart,2025-01-10
+C009,P502,Home,Yes,3.5,Purchased,2025-04-22
+C009,P601,Sports,Yes,4.3,Purchased,2025-04-22
+C009,P702,Books,Yes,4.6,Added to Cart,2025-04-22
+C009,P302,Grocery,Yes,4.4,Added to Cart,2025-03-26
+C009,P301,Grocery,Yes,3.7,Purchased,2025-03-26
+C009,P702,Books,Yes,4.3,Frequently Viewed,2025-03-17
+C009,P503,Home,Yes,4.5,Wishlist,2025-03-17
+C009,P201,Fashion,Yes,4.0,Frequently Viewed,2025-01-01
+C009,P202,Fashion,Yes,4.7,Added to Cart,2025-01-01
+C010,P602,Sports,Yes,4.2,Purchased,2025-05-11
+C010,P502,Home,Yes,4.7,Frequently Viewed,2025-05-11
+C010,P102,Electronics,Yes,4.5,Frequently Viewed,2025-03-02
+C010,P801,Accessories,Yes,3.8,Viewed Once,2025-03-02
+C010,P802,Accessories,Yes,3.9,Added to Cart,2025-03-02
+C010,P401,Beauty,Yes,4.4,Purchased,2025-06-11
+C010,P402,Beauty,Yes,4.1,Wishlist,2025-06-11
+C010,P103,Electronics,Yes,3.8,Purchased,2025-02-26
+C010,P802,Accessories,Yes,4.3,Viewed Once,2025-02-26
+C010,P103,Electronics,Yes,4.3,Added to Cart,2025-06-20
+C010,P104,Electronics,Yes,4.0,Purchased,2025-06-20
+C010,P401,Beauty,Yes,4.2,Purchased,2025-06-20
+C011,P402,Beauty,Yes,4.2,Purchased,2025-05-02
+C011,P401,Beauty,Yes,4.8,Frequently Viewed,2025-05-02
+C011,P402,Beauty,Yes,3.9,Wishlist,2025-03-15
+C011,P401,Beauty,Yes,4.8,Viewed Once,2025-03-15
+C011,P103,Electronics,Yes,3.7,Wishlist,2025-03-15
+C011,P104,Electronics,Yes,4.3,Wishlist,2025-03-26
+C011,P103,Electronics,Yes,3.8,Wishlist,2025-03-26
+C011,P401,Beauty,Yes,3.9,Wishlist,2025-04-01
+C011,P402,Beauty,Yes,4.8,Purchased,2025-04-01
+C011,P503,Home,Yes,4.2,Viewed Once,2025-03-11
+C011,P701,Books,Yes,4.0,Added to Cart,2025-03-11
+C011,P502,Home,Yes,5.0,Added to Cart,2025-02-02
+C011,P601,Sports,Yes,4.9,Added to Cart,2025-02-02
+C012,P801,Accessories,Yes,3.6,Wishlist,2025-02-16
+C012,P102,Electronics,Yes,3.8,Wishlist,2025-02-16
+C012,P401,Beauty,Yes,4.6,Wishlist,2025-02-16
+C012,P402,Beauty,Yes,3.5,Added to Cart,2025-05-01
+C012,P401,Beauty,Yes,5.0,Wishlist,2025-05-01
+C012,P201,Fashion,Yes,3.8,Viewed Once,2025-03-05
+C012,P203,Fashion,Yes,3.7,Frequently Viewed,2025-03-05
+C013,P701,Books,Yes,3.8,Added to Cart,2025-04-05
+C013,P702,Books,Yes,4.6,Frequently Viewed,2025-04-05
+C013,P401,Beauty,Yes,4.4,Purchased,2025-03-21
+C013,P402,Beauty,Yes,4.1,Purchased,2025-03-21
+C013,P101,Electronics,Yes,3.8,Added to Cart,2025-03-21
+C013,P401,Beauty,Yes,4.8,Added to Cart,2025-03-19
+C013,P402,Beauty,Yes,3.7,Purchased,2025-03-19
+C014,P302,Grocery,Yes,3.5,Wishlist,2025-03-29
+C014,P301,Grocery,Yes,4.2,Wishlist,2025-03-29
+C014,P602,Sports,Yes,4.0,Purchased,2025-03-29
+C014,P502,Home,Yes,4.9,Frequently Viewed,2025-05-14
+C014,P601,Sports,Yes,4.7,Added to Cart,2025-05-14
+C014,P602,Sports,Yes,3.9,Purchased,2025-06-01
+C014,P502,Home,Yes,4.7,Viewed Once,2025-06-01
+C015,P802,Accessories,Yes,4.0,Added to Cart,2025-04-08
+C015,P105,Electronics,Yes,4.0,Added to Cart,2025-04-08
+C015,P302,Grocery,Yes,4.8,Added to Cart,2025-06-29
+C015,P301,Grocery,Yes,4.3,Frequently Viewed,2025-06-29
+C015,P601,Sports,Yes,3.9,Wishlist,2025-06-29
+C015,P701,Books,Yes,4.2,Viewed Once,2025-05-06
+C015,P702,Books,Yes,3.9,Wishlist,2025-05-06
+C015,P105,Electronics,Yes,4.3,Wishlist,2025-05-02
+C015,P802,Accessories,Yes,5.0,Added to Cart,2025-05-02
+C015,P302,Grocery,Yes,4.6,Wishlist,2025-01-31
+C015,P301,Grocery,Yes,4.6,Purchased,2025-01-31
+C015,P202,Fashion,Yes,4.5,Frequently Viewed,2025-01-31
+C015,P202,Fashion,Yes,4.4,Purchased,2025-05-15
+C015,P203,Fashion,Yes,4.7,Frequently Viewed,2025-05-15
+C016,P105,Electronics,Yes,3.9,Purchased,2025-02-02
+C016,P103,Electronics,Yes,4.3,Added to Cart,2025-02-02
+C016,P802,Accessories,Yes,3.9,Added to Cart,2025-05-27
+C016,P103,Electronics,Yes,4.0,Purchased,2025-05-27
+C016,P302,Grocery,Yes,4.2,Added to Cart,2025-04-13
+C016,P301,Grocery,Yes,4.5,Frequently Viewed,2025-04-13
+C016,P402,Beauty,Yes,4.3,Wishlist,2025-01-31
+C016,P401,Beauty,Yes,4.4,Added to Cart,2025-01-31
+C016,P402,Beauty,Yes,4.8,Purchased,2025-03-18
+C016,P401,Beauty,Yes,4.0,Added to Cart,2025-03-18
+C017,P401,Beauty,Yes,3.9,Added to Cart,2025-02-10
+C017,P402,Beauty,Yes,3.7,Wishlist,2025-02-10
+C017,P103,Electronics,Yes,4.5,Added to Cart,2025-02-10
+C017,P101,Electronics,Yes,4.8,Viewed Once,2025-06-29
+C017,P102,Electronics,Yes,3.9,Frequently Viewed,2025-06-29
+C017,P401,Beauty,Yes,3.7,Frequently Viewed,2025-06-15
+C017,P402,Beauty,Yes,3.7,Viewed Once,2025-06-15
+C017,P202,Fashion,Yes,4.7,Added to Cart,2025-06-15
+C018,P601,Sports,Yes,4.1,Frequently Viewed,2025-06-29
+C018,P602,Sports,Yes,4.3,Wishlist,2025-06-29
+C018,P701,Books,Yes,3.9,Viewed Once,2025-06-04
+C018,P702,Books,Yes,4.9,Purchased,2025-06-04
+C018,P503,Home,Yes,4.7,Added to Cart,2025-06-22
+C018,P701,Books,Yes,4.6,Frequently Viewed,2025-06-22
+C018,P503,Home,Yes,5.0,Wishlist,2025-02-16
+C018,P702,Books,Yes,4.7,Purchased,2025-02-16
+C018,P602,Sports,Yes,4.8,Wishlist,2025-01-27
+C018,P502,Home,Yes,4.5,Frequently Viewed,2025-01-27
+C018,P701,Books,Yes,4.9,Purchased,2025-01-27
+C019,P601,Sports,Yes,4.8,Purchased,2025-04-14
+C019,P602,Sports,Yes,3.5,Purchased,2025-04-14
+C019,P104,Electronics,Yes,4.2,Viewed Once,2025-04-14
+C019,P702,Books,Yes,3.8,Added to Cart,2025-01-14
+C019,P503,Home,Yes,4.9,Wishlist,2025-01-14
+C019,P202,Fashion,Yes,4.7,Purchased,2025-06-05
+C019,P201,Fashion,Yes,4.0,Viewed Once,2025-06-05
+C019,P602,Sports,Yes,4.1,Frequently Viewed,2025-06-05
+C020,P601,Sports,Yes,4.3,Frequently Viewed,2025-03-16
+C020,P502,Home,Yes,4.8,Purchased,2025-03-16
+C020,P802,Accessories,Yes,4.3,Purchased,2025-06-03
+C020,P105,Electronics,Yes,4.8,Frequently Viewed,2025-06-03
+C020,P201,Fashion,Yes,4.7,Wishlist,2025-06-03
+C020,P402,Beauty,Yes,4.4,Added to Cart,2025-05-31
+C020,P401,Beauty,Yes,4.8,Wishlist,2025-05-31
+C020,P204,Fashion,Yes,4.2,Wishlist,2025-05-31
+C021,P602,Sports,Yes,4.4,Frequently Viewed,2025-03-03
+C021,P601,Sports,Yes,4.7,Viewed Once,2025-03-03
+C021,P202,Fashion,Yes,4.7,Added to Cart,2025-06-19
+C021,P203,Fashion,Yes,3.7,Purchased,2025-06-19
+C021,P105,Electronics,Yes,3.6,Purchased,2025-04-23
+C021,P103,Electronics,Yes,3.5,Frequently Viewed,2025-04-23
+C021,P401,Beauty,Yes,4.0,Added to Cart,2025-03-09
+C021,P402,Beauty,Yes,4.5,Purchased,2025-03-09
+C021,P402,Beauty,Yes,4.8,Viewed Once,2025-05-05
+C021,P401,Beauty,Yes,3.6,Added to Cart,2025-05-05
+C021,P301,Grocery,Yes,4.6,Purchased,2025-01-26
+C021,P302,Grocery,Yes,3.7,Frequently Viewed,2025-01-26
+C022,P101,Electronics,Yes,4.0,Wishlist,2025-03-17
+C022,P102,Electronics,Yes,3.9,Wishlist,2025-03-17
+C022,P201,Fashion,Yes,4.4,Frequently Viewed,2025-04-08
+C022,P203,Fashion,Yes,4.9,Frequently Viewed,2025-04-08
+C022,P601,Sports,Yes,4.2,Frequently Viewed,2025-04-08
+C022,P301,Grocery,Yes,4.3,Viewed Once,2025-06-23
+C022,P302,Grocery,Yes,4.9,Purchased,2025-06-23
+C022,P302,Grocery,Yes,3.8,Wishlist,2025-03-19
+C022,P301,Grocery,Yes,4.2,Frequently Viewed,2025-03-19
+C022,P702,Books,Yes,3.5,Purchased,2025-03-17
+C022,P503,Home,Yes,4.1,Viewed Once,2025-03-17
+C023,P503,Home,Yes,4.7,Frequently Viewed,2025-03-15
+C023,P702,Books,Yes,4.7,Frequently Viewed,2025-03-15
+C023,P105,Electronics,Yes,4.5,Frequently Viewed,2025-06-18
+C023,P802,Accessories,Yes,3.6,Added to Cart,2025-06-18
+C023,P102,Electronics,Yes,3.6,Frequently Viewed,2025-02-03
+C023,P801,Accessories,Yes,4.6,Frequently Viewed,2025-02-03
+C023,P302,Grocery,Yes,3.7,Added to Cart,2025-02-03
+C024,P503,Home,Yes,4.9,Purchased,2025-03-07
+C024,P702,Books,Yes,5.0,Frequently Viewed,2025-03-07
+C024,P402,Beauty,Yes,3.7,Purchased,2025-01-20
+C024,P401,Beauty,Yes,4.8,Purchased,2025-01-20
+C024,P502,Home,Yes,3.9,Frequently Viewed,2025-01-04
+C024,P602,Sports,Yes,4.1,Purchased,2025-01-04
+C024,P303,Grocery,Yes,3.9,Wishlist,2025-01-04
+C024,P202,Fashion,Yes,3.5,Purchased,2025-05-01
+C024,P201,Fashion,Yes,4.3,Purchased,2025-05-01
+C024,P103,Electronics,Yes,4.0,Wishlist,2025-06-29
+C024,P105,Electronics,Yes,3.7,Purchased,2025-06-29
+C025,P601,Sports,Yes,4.1,Wishlist,2025-02-04
+C025,P502,Home,Yes,4.9,Added to Cart,2025-02-04

@@ -1,0 +1,9 @@
+E-Commerce Recommendation Insights
+
+1. Electronics received the highest customer engagement across all categories.
+2. Smartphones and Wireless Earbuds were frequently purchased together.
+3. Coffee and Cookies formed a strong association with high Lift values.
+4. Customers who added products to the cart showed higher purchase intent than Wishlist users.
+5. Customers with ratings above 4 tended to exhibit repeat purchasing behaviour.
+6. KNN successfully identified customers with similar shopping patterns for personalized recommendations.
+7. High-lift association rules can significantly improve cross-selling opportunities.
